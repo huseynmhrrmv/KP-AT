@@ -1,19 +1,18 @@
-<h2> Hi, I'm Hüseyin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h1 align="center">Hi, I'm Hüseyin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<p align="center">
+  Junior Developer & IT Enthusiast <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
+  Certified in VMware, Cisco, IBM, Google
+</p>
 
-<p><em>Junior Developer & IT Enthusiast <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
-Certified in <a href="https://www.vmware.com/">VMware</a>, <a href="https://www.cisco.com/">Cisco</a>, <a href="https://www.ibm.com/">IBM</a>, <a href="https://about.google/">Google</a> 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-[![GitHub followers](https://img.shields.io/github/followers/huseynmhrrmv?label=follow&style=social)](https://github.com/huseynmhrrmv)
-
-📫 **Reach me at:**  
-✉️ [huseyn.maharramov@icloud.com](mailto:huseyn.maharramov@icloud.com)
+<p align="center">
+  [![GitHub followers](https://img.shields.io/github/followers/huseynmhrrmv?label=Follow&style=social)](https://github.com/huseynmhrrmv)
+  <br>
+  📫 Reach me: <a href="mailto:huseyn.maharramov@icloud.com">huseyn.maharramov@icloud.com</a>
+</p>
 
 ---
 
-### 🏆 Certifications
+## 🏆 Certifications
 
 <div align="left">
 
@@ -32,7 +31,7 @@ Certified in <a href="https://www.vmware.com/">VMware</a>, <a href="https://www.
 **Cisco Networking & Cybersecurity**  
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
 
-**Introduction to Python for Cybersecurity (Infosec)**  
+**Python for Cybersecurity (Infosec)**  
 ![Infosec](https://img.shields.io/badge/Infosec-Python_Cybersecurity-yellow?style=for-the-badge&logo=python)
 
 **SOAP Web Services with JAX-WS**  
@@ -51,14 +50,14 @@ Certified in <a href="https://www.vmware.com/">VMware</a>, <a href="https://www.
 
 ---
 
-### 💡 About Me
+## 💡 About Me
 
 - **Languages & Frameworks:** C#, Python, SQL, ASP.NET, Git, Linux  
 - **Interests:** Cybersecurity, System Administration, Data Analytics  
-- **Goal:** Build real-world projects and level up from Junior to Mid-Level Developer 🚀  
-- **Learning Philosophy:** Always eager to learn, share knowledge, and tackle challenging projects.  
+- **Goal:** Build impactful projects and grow from Junior to Mid-Level Developer 🚀  
+- **Learning Philosophy:** Continuous learning, knowledge sharing, and embracing challenges  
 
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
-<em><b>I enjoy learning and sharing knowledge</b> — always open to new projects, collaborations, and challenges! ✨</em>
+<em><b>I enjoy learning and sharing knowledge</b> — always open to collaborations, projects, and challenges! ✨</em>
