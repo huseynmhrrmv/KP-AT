@@ -1,17 +1,50 @@
-# 💫 About Me:
-My name is Hussein, and I'm a Java developer with experience in several programming languages. Here's a little bit about me:<br><br>💻 I love writing code and building software applications.<br>⭐ I'm passionate about developing high-quality, maintainable, and scalable code.<br><br><br># ✴️ My Skills Me:<br>Here are some of the programming languages and technologies that I'm proficient in:<br><br>Java ☕<br>JavaScript 🌍<br>As a Java developer, my primary aim is to develop robust, efficient, and scalable Java applications that meet the needs of businesses and end-users. Some of my long-term goals include:<br><br>🚀 Becoming an expert in Java and its related technologies.<br>💼 Advancing my career as a Java developer and taking on more challenging projects.<br>📑 Helping businesses improve their productivity and efficiency through the use of technology.
+<h2> Hi, I'm Hüseyin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
+<p><em>Junior Developer & IT Enthusiast <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
+Certified in <a href="https://www.vmware.com/">VMware</a>, <a href="https://www.cisco.com/">Cisco</a>, <a href="https://www.ibm.com/">IBM</a>, <a href="https://about.google/">Google</a> 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-## 🌐 Socials:
+[![GitHub followers](https://img.shields.io/github/followers/huseynmhrrmv?label=follow&style=social)](https://github.com/huseynmhrrmv)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=daim2n&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=daim2n&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daim2n&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📫 **Reach me at:**  
+✉️ [huseyn.maharramov@icloud.com](mailto:huseyn.maharramov@icloud.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=daim2n&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🏆 Certifications
+
+![Google](https://img.shields.io/badge/Google-Data_Analytics-blue?style=for-the-badge&logo=google)  
+![.NET](https://img.shields.io/badge/.NET-Full_Stack-purple?style=for-the-badge&logo=dotnet)  
+![VMware](https://img.shields.io/badge/VMware-vSphere-lightgrey?style=for-the-badge&logo=vmware)  
+![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)  
+![IBM](https://img.shields.io/badge/IBM-Hardware-darkblue?style=for-the-badge&logo=ibm)  
+![Infosec](https://img.shields.io/badge/Infosec-Python_Cybersecurity-yellow?style=for-the-badge)  
+![SOAP](https://img.shields.io/badge/SOAP-Web_Services-orange?style=for-the-badge)  
+![Python Essentials](https://img.shields.io/badge/Python-Essentials_1-green?style=for-the-badge&logo=python)
+
+---
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```python
+# Hüseyin's Dev Profile
+huseyin = {
+    "pronouns": "he/him",
+    "languages": ["C#", "Python", "SQL"],
+    "frameworks_tools": ["ASP.NET", "Git", "Linux", "VMware", "Cisco"],
+    "interests": ["Cybersecurity", "System Administration", "Data Analytics"],
+    "goal": "Building real-world projects and leveling up from Junior to Mid-Level Dev 🚀"
+}
+
+def introduce():
+    print("Hi, I'm Hüseyin! 👋")
+    print("I enjoy learning, coding, and sharing knowledge. 🚀")
+    print("Always open to projects, collaborations, and challenges! ✨")
+
+introduce()```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<em><b>I enjoy learning and sharing knowledge</b> — always open to new projects, collaborations, and challenges! ✨</em>
+
