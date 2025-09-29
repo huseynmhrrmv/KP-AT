@@ -32,52 +32,33 @@ Certified in <a href="https://www.vmware.com/">VMware</a>, <a href="https://www.
 **Cisco Networking & Cybersecurity**  
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
 
-**Python for Cybersecurity (Infosec)**  
+**Introduction to Python for Cybersecurity (Infosec)**  
 ![Infosec](https://img.shields.io/badge/Infosec-Python_Cybersecurity-yellow?style=for-the-badge&logo=python)
 
 **SOAP Web Services with JAX-WS**  
 ![SOAP](https://img.shields.io/badge/SOAP-Web_Services-orange?style=for-the-badge)
 
-**Python Essentials 1**  
+**Computer Hardware Basics (Cisco Networking Academy)**  
+![Cisco Hardware](https://img.shields.io/badge/Cisco-Hardware_Intro-lightblue?style=for-the-badge&logo=cisco)
+
+**Introduction to Cybersecurity (Cisco Networking Academy)**  
+![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Cybersecurity-blue?style=for-the-badge&logo=cisco)
+
+**Python Essentials 1 (Cisco Networking Academy)**  
 ![Python Essentials](https://img.shields.io/badge/Python-Essentials_1-green?style=for-the-badge&logo=python)
 
 </div>
 
 ---
 
-### 💻 About Me
+### 💡 About Me
 
-```python
-# Hüseyin's Dev Profile
-class DevProfile:
-    def __init__(self):
-        self.name = "Hüseyin"
-        self.pronouns = "he/him"
-        self.languages = ["C#", "Python", "SQL"]
-        self.frameworks_tools = ["ASP.NET", "Git", "Linux", "VMware", "Cisco"]
-        self.interests = ["Cybersecurity", "System Administration", "Data Analytics"]
-        self.certifications = [
-            "IBM Core 1: Hardware & Network Troubleshooting",
-            "Google Foundations: Data, Data, Everywhere",
-            ".NET Full Stack Foundation",
-            "VMware vSphere",
-            "Cisco Networking & Cybersecurity",
-            "Python for Cybersecurity",
-            "SOAP Web Services",
-            "Python Essentials 1"
-        ]
-        self.goal = "Build real-world projects and level up from Junior to Mid-Level Dev 🚀"
+- **Languages & Frameworks:** C#, Python, SQL, ASP.NET, Git, Linux  
+- **Interests:** Cybersecurity, System Administration, Data Analytics  
+- **Goal:** Build real-world projects and level up from Junior to Mid-Level Developer 🚀  
+- **Learning Philosophy:** Always eager to learn, share knowledge, and tackle challenging projects.  
 
-    def introduce(self):
-        print(f"Hi, I'm {self.name}! 👋")
-        print("I enjoy learning, coding, and sharing knowledge. 🚀")
-        print("Always open to projects, collaborations, and challenges! ✨")
-        print(f"Highlight Certification: {self.certifications[0]} ✅")
+---
 
-me = DevProfile()
-me.introduce()
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
 <em><b>I enjoy learning and sharing knowledge</b> — always open to new projects, collaborations, and challenges! ✨</em>
-
