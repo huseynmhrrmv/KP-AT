@@ -15,46 +15,68 @@ Certified in <a href="https://www.vmware.com/">VMware</a>, <a href="https://www.
 
 ### 🏆 Certifications
 
-**IBM Core 1: Hardware & Network Troubleshooting** ![IBM Core 1](https://img.shields.io/badge/IBM-Core_1_Hardware_Network-red?style=for-the-badge&logo=ibm)  
-**Google Data Analytics** ![Google Data Analytics](https://img.shields.io/badge/Google-Data_Analytics-blue?style=for-the-badge&logo=google)  
-**.NET Full Stack Foundation** ![.NET](https://img.shields.io/badge/.NET-Full_Stack-purple?style=for-the-badge&logo=dotnet)  
-**VMware vSphere: Install, Configure, Manage** ![VMware](https://img.shields.io/badge/VMware-vSphere-lightgrey?style=for-the-badge&logo=vmware)  
-**Cisco Networking & Cybersecurity** ![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)  
-**Python for Cybersecurity (Infosec)** ![Infosec](https://img.shields.io/badge/Infosec-Python_Cybersecurity-yellow?style=for-the-badge&logo=python)  
-**SOAP Web Services with JAX-WS** ![SOAP](https://img.shields.io/badge/SOAP-Web_Services-orange?style=for-the-badge)  
-**Python Essentials 1** ![Python Essentials](https://img.shields.io/badge/Python-Essentials_1-green?style=for-the-badge&logo=python)
+<div align="left">
+
+**IBM Core 1: Hardware & Network Troubleshooting**  
+![IBM Core 1](https://img.shields.io/badge/IBM-Core_1_Hardware_Network-red?style=for-the-badge&logo=ibm)
+
+**Google Foundations: Data, Data, Everywhere**  
+![Google](https://img.shields.io/badge/Google-Data_Analytics-blue?style=for-the-badge&logo=google)
+
+**.NET Full Stack Foundation**  
+![.NET](https://img.shields.io/badge/.NET-Full_Stack-purple?style=for-the-badge&logo=dotnet)
+
+**VMware vSphere: Install, Configure, Manage**  
+![VMware](https://img.shields.io/badge/VMware-vSphere-lightgrey?style=for-the-badge&logo=vmware)
+
+**Cisco Networking & Cybersecurity**  
+![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
+
+**Python for Cybersecurity (Infosec)**  
+![Infosec](https://img.shields.io/badge/Infosec-Python_Cybersecurity-yellow?style=for-the-badge&logo=python)
+
+**SOAP Web Services with JAX-WS**  
+![SOAP](https://img.shields.io/badge/SOAP-Web_Services-orange?style=for-the-badge)
+
+**Python Essentials 1**  
+![Python Essentials](https://img.shields.io/badge/Python-Essentials_1-green?style=for-the-badge&logo=python)
+
+</div>
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+### 💻 About Me
 
 ```python
-# Hüseyin's Professional Dev Profile
-huseyin = {
-    "pronouns": "he/him",
-    "languages": ["C#", "Python", "SQL"],
-    "frameworks_tools": ["ASP.NET", "Git", "Linux", "VMware", "Cisco"],
-    "interests": ["Cybersecurity", "System Administration", "Data Analytics"],
-    "goal": "Building real-world projects and leveling up from Junior to Mid-Level Dev 🚀",
-    "highlight_certifications": [
-        "IBM Core 1: Hardware & Network Troubleshooting",
-        "Google Data Analytics",
-        ".NET Full Stack Foundation",
-        "VMware vSphere",
-        "Cisco Networking & Cybersecurity",
-        "Python for Cybersecurity",
-        "SOAP Web Services",
-        "Python Essentials 1"
-    ]
-}
+# Hüseyin's Dev Profile
+class DevProfile:
+    def __init__(self):
+        self.name = "Hüseyin"
+        self.pronouns = "he/him"
+        self.languages = ["C#", "Python", "SQL"]
+        self.frameworks_tools = ["ASP.NET", "Git", "Linux", "VMware", "Cisco"]
+        self.interests = ["Cybersecurity", "System Administration", "Data Analytics"]
+        self.certifications = [
+            "IBM Core 1: Hardware & Network Troubleshooting",
+            "Google Foundations: Data, Data, Everywhere",
+            ".NET Full Stack Foundation",
+            "VMware vSphere",
+            "Cisco Networking & Cybersecurity",
+            "Python for Cybersecurity",
+            "SOAP Web Services",
+            "Python Essentials 1"
+        ]
+        self.goal = "Build real-world projects and level up from Junior to Mid-Level Dev 🚀"
 
-def introduce():
-    print("Hi, I'm Hüseyin! 👋")
-    print("I enjoy learning, coding, and sharing knowledge. 🚀")
-    print("Always open to projects, collaborations, and challenges! ✨")
-    print("Highlight: IBM Core 1 Certification ✅")
+    def introduce(self):
+        print(f"Hi, I'm {self.name}! 👋")
+        print("I enjoy learning, coding, and sharing knowledge. 🚀")
+        print("Always open to projects, collaborations, and challenges! ✨")
+        print(f"Highlight Certification: {self.certifications[0]} ✅")
 
-introduce()```
+me = DevProfile()
+me.introduce()
+```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 <em><b>I enjoy learning and sharing knowledge</b> — always open to new projects, collaborations, and challenges! ✨</em>
