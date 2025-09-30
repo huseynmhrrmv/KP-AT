@@ -19,7 +19,7 @@ const huseyn = {
   tools: ["ASP.NET", "Git", "Linux", "VMware", "Cisco"],
   currentlyLearning: ["Cybersecurity", "Data Analytics"],
   goal: "Leveling up from Junior Developer to Pro 🚀"
-}```
+}
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
