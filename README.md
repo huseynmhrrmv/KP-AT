@@ -1,21 +1,21 @@
-# 👋 Hi, I'm Hüseyin  
+# 👋 Hi, I'm Huseyn  
 
-💻 **.NET & Python Developer**  
-🔒 **Cybersecurity Enthusiast | VMware & Cisco Certified**  
-🌱 Constantly learning, building, and growing in the IT ecosystem.  
+💻 **.NET, Python & PHP Developer**  
+🔒 **Cybersecurity-Focused IT Specialist**  
+🌍 Passionate about building efficient systems and secure backend solutions.  
 
 ---
 
 ### 🧠 About Me  
-Passionate about backend development, automation, and cybersecurity.  
-I enjoy creating efficient solutions and exploring new technologies that make systems faster, safer, and smarter.  
+I'm an IT enthusiast who bridges software development and infrastructure.  
+My goal is to create reliable, scalable, and secure applications while constantly learning new technologies.  
 
 ---
 
 ### ⚙️ Tech Stack  
-**Languages:** C#, Python, SQL  
+**Languages:** C#, Python, PHP, SQL  
 **Frameworks & Tools:** ASP.NET, Git, Linux, VMware, Cisco  
-**Focus Areas:** Backend Development, Cybersecurity, System Administration  
+**Focus Areas:** Backend Development, Cybersecurity, Cloud & Networking  
 
 ---
 
